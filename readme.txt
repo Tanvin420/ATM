@@ -1,1 +1,1 @@
-You can find the jar file in the dist folder. :)
+You can find the jar file (executable file) in the dist folder. :)
